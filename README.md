@@ -6,5 +6,5 @@
 - 💻 Atualmente estou aprendendo HTML5 e CSS3.
 - 💞️ Estou procurando colaborar em criação de sites.
 - 📫 Como chegar até mim: 
-- 📷 <a href="https://www.instagram.com/unkw_sz/">Instagram</a>
+- 📷 Meu <a href="https://www.instagram.com/unkw_sz/">Instagram</a>
 - ✉️ Email ➱ carlosberling@outlook.com
