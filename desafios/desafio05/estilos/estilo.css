@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+header {
+    background-color: black;
+    padding: 16px;
+    text-align: center;
+    margin-top: -10px;
+    margin-left: -10px;
+    margin-right: -10px;
+}
+h1 {
+    color: white;
+}
+
+p {
+    color: white;
+}
+p > a {
+    text-decoration: none;
+    color: white;
+}
+p > a:hover {
+    color: wheat;
+    text-decoration: underline;
+}
+
+main > section > p {
+    width: 150px;
+    color: black;
+}
